@@ -44,10 +44,11 @@ public class Archivos {
         {
             System.out.println("EL ARCHIVO YA EXISTE");
         }
-      
+      /*
         char[] in = null;
         FileReader fr = new FileReader(file);
         int size = fr.read(file.length());
         in = new char[size];
+*/
     }
 }
